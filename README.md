@@ -20,7 +20,7 @@
 </head>
 <body>
 <div class="container">
-  <h1>Database Undang-Undang Kepolisian RP</h1>
+  <h1>Database Undang-Undang Kepolisian Mandalika </h1>
 
   <!-- TABLE UU -->
   <h2>Pasal Ringan</h2>
